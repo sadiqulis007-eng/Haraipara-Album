@@ -1,0 +1,5 @@
+{
+  "name": "haraipara album",
+  "description": "A private digital family album to keep track of your loved ones' information. Login required to view, add, and manage family members. Features include photo uploads, editing, and PIN-protected deletion.",
+  "requestFramePermissions": []
+}
